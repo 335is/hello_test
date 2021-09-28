@@ -34,3 +34,4 @@
 # Visual Studio and CMake outputs
 .vs
 out
+build
