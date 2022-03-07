@@ -30,12 +30,12 @@ echo $?
 
 ## Open developer command prompt for Visual Studio
 ```
-%comspec% /k "C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\Tools\VsDevCmd.bat"
+%comspec% /k "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Common7\Tools\VsDevCmd.bat"
 ```
 
 ## Go to the source file directory
 ```
-cd c:\code\c++\github.com\335is\hello_test
+cd C:\github.com\335is\hello_test
 ```
 
 ## Build with CMake in Windows
